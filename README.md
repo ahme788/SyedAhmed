@@ -1,4 +1,4 @@
-![logo](https://github.com/ahme788/SyedAhmed/blob/main/Modern%20and%20Creative%20Marketing%20Agency%20Facebook%20Cover.png)
+`  ![logo](https://github.com/ahme788/SyedAhmed/blob/main/Modern%20and%20Creative%20Marketing%20Agency%20Facebook%20Cover.png)
 <h1 align="center">Hi 👋, I'm Syed Ahmed</h1>
 <h3 align="center">A passionate Aspired Data Analyst from India</h3>
  
